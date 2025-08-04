@@ -72,6 +72,7 @@ st.info("""
 3. Enter a clear learning goal, for example:
     - "I want to learn python basics in 3 days"
     - "I want to learn data science basics in 10 days"
+*** We don’t store any keys or data — all run locally in this session ***
 """)
 
 # Main content area
